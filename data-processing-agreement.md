@@ -6,9 +6,12 @@ This Schedule 1 regulates Submotion’s processing of data on behalf of you.
 As part of our rendering of our services for you, and in order to make our services available to you, we process the following types of data about the members of your organization:
 
 *	full name
+* username, if applicable in a system
 *	email address
 *	profile pictures
 *	account availability in other systems
+* service usage statistics
+* service security features utilized, such as two-factor authentication
 
 In this Data Processing Agreement, the data we process on your behalf is generally called “personal data” or “data”.
 
@@ -16,6 +19,8 @@ The processing of data is for the following purposes:
 
 *	enabling you to gain an easy overview of which of your organization’s different subscriptions and digital accounts each of your organization’s members has access to 
 *	reporting
+* enabling you to see how much a service or subscription is used
+* enabling you to see that your members are living up to your security policy such as using two-factor authentication
 
 Our data processing includes the collection, storage, structuring in our system, deletion and destruction of data.
 We are permitted to let third parties process data on our behalf by appointment as subprocessor. The subprocessing shall be governed by a contract imposing the same data protection obligations as set out in this contract.
